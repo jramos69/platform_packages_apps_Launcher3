@@ -30,7 +30,7 @@
     </style>
 
     <style name="LauncherTheme" parent="@style/BaseLauncherTheme">
-        <item name="allAppsScrimColor">#EAFFFFFF</item>
+        <item name="allAppsScrimColor">#EAF5F5F5</item>
         <item name="allAppsInterimScrimAlpha">46</item>
         <item name="allAppsNavBarScrimColor">#66FFFFFF</item>
         <item name="popupColorPrimary">#FFF</item>
@@ -173,7 +173,7 @@
         <item name="android:focusable">true</item>
         <item name="android:gravity">center_horizontal</item>
         <item name="android:lines">1</item>
-        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
         <item name="android:defaultFocusHighlightEnabled">false</item>
 
         <!-- No shadows in the base theme -->

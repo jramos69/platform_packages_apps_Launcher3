@@ -57,4 +57,8 @@
      LIMIT=100] -->
      <string name="msg_minus_one_on_right">When you swipe left from main home screen</string>
 
+     <!-- Suggestions -->
+     <string name="suggestion_pref_screen_title">Suggestions</string>
+     <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
+
 </resources>

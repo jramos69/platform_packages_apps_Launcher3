@@ -88,7 +88,7 @@
         launcher:numColumns="5"
         launcher:numFolderRows="4"
         launcher:numFolderColumns="4"
-        launcher:numHotseatIcons="5"
+        launcher:numHotseatIcons="4"
         launcher:numAllAppsColumns="5"
         launcher:dbFile="launcher.db"
         launcher:defaultLayoutId="@xml/default_workspace_5x5" >

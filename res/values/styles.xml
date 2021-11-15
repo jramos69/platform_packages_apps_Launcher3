@@ -30,7 +30,7 @@
 
     <style name="LauncherTheme" parent="@style/BaseLauncherTheme">
         <item name="android:textColorSecondary">#DE000000</item>
-        <item name="allAppsScrimColor">?android:attr/colorBackgroundFloating</item>
+        <item name="allAppsScrimColor">#EAe8e8e8</item>
         <item name="allappsHeaderProtectionColor">@color/popup_color_tertiary_light</item>
         <item name="allAppsNavBarScrimColor">#66FFFFFF</item>
         <item name="allAppsTheme">@style/AllAppsTheme</item>
@@ -216,7 +216,7 @@
         <item name="android:layout_gravity">center</item>
         <item name="android:focusable">true</item>
         <item name="android:gravity">center_horizontal</item>
-        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
         <item name="android:defaultFocusHighlightEnabled">false</item>
         <!-- No shadows in the base theme -->
         <item name="android:shadowRadius">0</item>

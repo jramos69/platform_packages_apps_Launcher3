@@ -30,7 +30,7 @@
 
     <style name="LauncherTheme" parent="@style/BaseLauncherTheme">
         <item name="android:textColorSecondary">#DE000000</item>
-        <item name="allAppsScrimColor">#EAe8e8e8</item>
+        <item name="allAppsScrimColor">#EAd8e5e6</item>
         <item name="allappsHeaderProtectionColor">@color/popup_color_tertiary_light</item>
         <item name="allAppsNavBarScrimColor">#66FFFFFF</item>
         <item name="allAppsTheme">@style/AllAppsTheme</item>
